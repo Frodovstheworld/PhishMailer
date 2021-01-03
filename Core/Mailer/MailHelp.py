@@ -42,8 +42,6 @@ def CheckPerm():
 	if "Yes" in Check:
 		os.system("clear")
 	elif "No" in Check:
-		print(green + "\n Alright Got It")
-		time.sleep(1.5)
 		os.system("clear")
 	else:
 		AskPerm()
