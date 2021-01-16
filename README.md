@@ -79,6 +79,6 @@ python3 PhishMailer.py
 ## Contact
 If You Have Any Ideas And/Or Have Created Some Phishing Email(s) And Want To Have Your Name Here As A Code Helper
 You Can Contact Me Here:
-* wickr:  BiZken
+* instagram:  bizk3n
 * Email: bizken@protonmail.com
 
